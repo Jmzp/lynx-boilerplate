@@ -1,6 +1,6 @@
-## Rspeedy project
+## Lynx Boilerplate Project
 
-This is a ReactLynx project bootstrapped with `create-rspeedy`.
+This is a Lynx project bootstrapped with `create-rspeedy`.
 
 ## Getting Started
 
