@@ -1,5 +1,5 @@
 import './App.css';
-import MainNavigation from './navigation/index.js';
+import MainNavigation from './navigation/index.tsx';
 
 export function App() {
   return (

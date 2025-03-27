@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "@lynx-js/react": "^0.106.1",
-    "react-router": "6"
+    "react-localization": "^2.0.6",
+    "react-router": "6",
+    "axios": "^1.8.4",
+    "mobx": "^6.13.7",
+    "mobx-react": "^9.2.0"
   },
   "devDependencies": {
     "@lynx-js/qrcode-rsbuild-plugin": "^0.3.4",
